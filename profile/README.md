@@ -131,6 +131,7 @@ ___
 
 ### КОМАНДА FRONTEND
 
+🦸🏻‍♂️ [Максим] <https://github.com/maxtalanov>
 
 
 ### КОМАНДА BACKEND
